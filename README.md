@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-Thanks for stopping by! Here are a few fun facts about me:
+Thanks for stopping by! Here are a few facts about me:
 
 - 🔭 I’m currently working on developing advanced R projects using Shiny 
 - 🌱 I’m currently learning about object-orienting programming in Python 🐍
