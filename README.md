@@ -19,6 +19,6 @@ I'm a data scientist with over 5 years of experience developing data science sol
 
 ![Pandas](https://img.shields.io/badge/-Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-%230C55A5.svg?style=flat&logo=scipy) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-05122A?style=flat&logo=xgboost) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/-Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 
-## 🛠️ Tools & Frameworks
+### 🛠️ Tools & Frameworks
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio) ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
