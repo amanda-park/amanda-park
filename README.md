@@ -8,6 +8,11 @@ I'm a data scientist with over 5 years of experience developing data science sol
 
 # Skills
 
+For the sake of transparency, I like to distinguish between:
+
+* Skills that I actively use on a regular basis
+* Skills that I have used and/or learned about in the past, *and* am confident I could pick up again 
+
 ## 💻 Languages
 
 ### Active Use
@@ -32,7 +37,7 @@ I'm a data scientist with over 5 years of experience developing data science sol
 
 ### Active Use
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#) ![Quarto](https://img.shields.io/badge/Quarto-39729E?logo=Quarto&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff) ![AWS SageMaker](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#) ![Quarto](https://img.shields.io/badge/Quarto-39729E?logo=Quarto&logoColor=fff)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=fff) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudioide&logoColor=fff) ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white) ![RPG Maker MZ](https://img.shields.io/badge/RPG_Maker_MZ-3E4348)
 
 ### Used in Past, Could Figure Out Again
