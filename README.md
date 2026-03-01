@@ -21,7 +21,7 @@ For the sake of transparency, I like to distinguish between:
 
 ### Used in Past, Could Figure Out Again
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF.svg?logo=apachehadoop&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF.svg?logo=apachehadoop&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-217346?&logo=microsoft-excel&logoColor=white)
 
 ## 🐍 Python & R Libraries
 
