@@ -4,7 +4,7 @@
     </h1>
 </div>
 
-I'm a data scientist with over 7 years of experience developing data science solutions to improve patient outcomes. I'm experienced developing and deploying models within Epic through their Nebula framework.
+I'm a data scientist with over 7 years of experience developing data science solutions to improve patient outcomes. I'm experienced developing and deploying both LLM solutions to customer Azure instances and predictive models within Epic through their Nebula framework.
 
 # Skills
 
